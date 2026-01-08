@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my first Git REPOSITORY.
+Author - Mithali Kadalagi
 
 <!--
 **kadalagimithali/kadalagimithali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
